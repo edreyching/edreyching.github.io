@@ -1,0 +1,74 @@
+{
+  "project": [
+    {
+      "title": "Laboratory One Patient Portal",
+      "description": "Laboratory One Patient Portal is an extension of services of Laboratory One itself, it porvides a access to the patient of Kthree diagnostic to results, transaction details and appointment details they aquired in Kthree diagnostic services. Also through the portal, patient can also view and download their laboratory results, book an appointment and message a doctor.",
+      "projType": "Web Application",
+      "client": "Kthree Diagnostic Laboratory Services",
+      "date": "Febuary 2017",
+      "demo": "Soon",
+      "attachments": "<span class='fa fa-paperclip'></span> <a href='<span class='fa fa-paperclip'></span> <a href='https://drive.google.com/open?id=0ByFTfUG47J3YY0RJNUxEaTk2TVU'>Tutorial ScreenShots </a>'>Tutorial ScreenShots </a>",
+      "img": "<div style='background-image: url(assets/img/projects/patientportal.png); background-size: cover; min-height: 100vh;'></div>"
+    },
+    {
+      "title": "Laboratory One",
+      "description": "Laboratory One is a web application that helps Kthree Diagnostic to boost their production by using the benifits of technolgy and automation,this application is ranging from servicing to analysis. Here are the some feature of this application: Booking appointment, Billing, Services, Consultaion, Queue and Data Analytics. It is a complete package of diagnostic laboratory manangement",
+      "projType": "Web Application",
+      "client": "Kthree Diagnostic Laboratory Services",
+      "date": "Febuary 2017",
+      "demo": "Soon",
+      "attachments": "<span class='fa fa-paperclip'></span> <a href='https://drive.google.com/open?id=0ByFTfUG47J3YY0RJNUxEaTk2TVU'>Tutorial ScreenShots </a>",
+      "img": "<div style='background-image: url(assets/img/projects/employeeportal.png); background-size: cover; min-height: 100vh;'></div>"
+    },
+    {
+      "title": "Attendance Monitoring System",
+      "description": "Tracking attendance of employee is the main function of this application. Plus filing sick,presonal and other kinds of leave is also part of this. Also selected user can also track who's inleave, see pending leave, grant and reject leaves and track their attendance. User can also add holidays that will affect to the leave counting.",
+      "projType": "Web Application",
+      "client": "NA",
+      "date": "December 2016",
+      "demo": "Soon",
+      "attachments": "<span class='fa fa-paperclip'></span> <a href='https://drive.google.com/file/d/0ByFTfUG47J3Ya1ZIUGdBb3pGNTg/view?usp=sharing'>Tutorial ScreenShots </a>",
+      "img": "<div style='background-image: url(assets/img/projects/ams.png); background-size: cover; min-height: 100vh;'></div>"
+    },
+    {
+      "title": "Faculty Evaluation",
+      "description": "Faculty evaulation online application for the convenience of the student and Human Resource. It is easier to evaluate professors through just clicking the desire score of the professor in each evaluation question. Computirize tally will be provided after the evaluation period the can be only seen by a selected user.",
+      "projType": "Web Application",
+      "client": "NA",
+      "date": "Febuary 2016",
+      "demo": "Soon",
+      "attachments": "<span class='fa fa-paperclip'></span> <a href='https://drive.google.com/file/d/0ByFTfUG47J3Ya1ZIUGdBb3pGNTg/view?usp=sharing'>Tutorial ScreenShots </a>",
+      "img": "<div style='background-image: url(assets/img/projects/facultyeva.png); background-size: cover; min-height: 100vh; background-position:center center;'></div>"
+    },
+    {
+      "title": "Music Player User Interface",
+      "description": "A basic Music Player interface template the can be used by other developer as inspiration or a template to the own applicatioin, it has only one page and other pages is still under development.",
+      "projType": "Web Application",
+      "client": "NA",
+      "date": "March 2017",
+      "demo": "Soon",
+      "attachments": "NA",
+      "img": "<div style='background-image: url(assets/img/projects/tune.png); background-position:center center; background-size: cover; min-height: 100vh;'></div>"
+    },
+    {
+      "title": "Coffee Creations",
+      "description": "A online coffee shop that lets you create and customize your own coffee, just click, create, and drink",
+      "projType": "Web Application",
+      "client": "NA",
+      "date": "June 2016",
+      "demo": "Soon",
+      "attachments": "NA",
+      "img": "<div style='background-image: url(assets/img/projects/coffeecreations.png); background-position:center center; background-size: cover; min-height: 100vh;'></div>"
+    },
+    {
+      "title": "Billing and Appointment Management System",
+      "description": "BAMS is a small and limited version of Laboratory one, this is a desktop application the only focuses on operation of the Kthree Diagnostic such us billing and appointment",
+      "projType": "Desktop Application",
+      "client": "NA",
+      "date": "Febuary 2016",
+      "demo": "NA",
+      "attachments": "NA",
+      "img": "<div style='background-image: url(assets/img/projects/bams.png); background-position:center center; background-size: cover; min-height: 100vh;'></div>"
+    }
+  ]
+}
